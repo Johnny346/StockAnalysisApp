@@ -96,3 +96,14 @@ st.line_chart(tickerDf.Volume)
 #file updated
 #file updated
 #file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
+#file updated
